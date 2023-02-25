@@ -1,0 +1,22 @@
+buatlah sebuah program yang dapat menghitung gaji pegawai.
+inputan :
+-	nama
+-	alamat
+-	pengalaman
+-	skill
+-	departmen
+
+departemen:
+-	IT : 8.000.000
+-	HRD: 5.000.000
+-	Finance: 4.000.000
+
+pengalaman:
+-	pemula : + 500.000
+-	menengah: + 1.000.000
+-	expert	: + 2.000.000
+
+skill:
+-	web : +1.000.000
+-	mobile: +2.000.000
+-	desktop: +2.500.00
