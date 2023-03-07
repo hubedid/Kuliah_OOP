@@ -17,9 +17,9 @@ public final class App {
         Scanner sc = new Scanner(System.in);
         // boolean cek = false;
         Kalkulator kal = new Kalkulator();
-        System.out.println("\tpisahkan operator dengan spasi");
-        System.out.println("\toperator : + , - , * , / , ()");
-        System.out.println("\tContoh input : 1 + 2 * ( 3 - ( 4 / 3 ) ) * ( 5 - 3 )");
+        System.out.println("\tPisahkan operator dengan spasi");
+        System.out.println("\tOperator : + , - , * , / , ()");
+        System.out.println("\tContoh input : 1 + 2 * ( 3 - ( 4 / 3 ) ) * ( 10 - 3 )");
         System.out.println("================================================================");
         System.out.print("Masukkan\t: ");
         String inputan = sc.nextLine();
