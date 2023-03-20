@@ -265,7 +265,7 @@ public final class App {
             }
             h++;
         }
-        double rata = totalVolume / 5;
+        double rata = totalVolume / h;
         System.out.println("Rata-rata Volume : "+ rata);
         System.out.println("===========================================");
     }
